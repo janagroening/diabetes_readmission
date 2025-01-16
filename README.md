@@ -43,10 +43,10 @@ commands in your terminal:
 
 ```bash
 # clone the repository
-git clone https://github.com/janagroening/diabetes-readmission
+git clone https://github.com/janagroening/diabetes_readmission
 
 # navigate to the repository root
-cd diabetes-readmission
+cd diabetes_readmission
 ```
 
 ### Environment
