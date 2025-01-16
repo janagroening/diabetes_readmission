@@ -1,0 +1,2 @@
+# ignore the data directory due to size (61.5 MB raw plus processed versions)
+data/
