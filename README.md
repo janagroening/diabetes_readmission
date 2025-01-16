@@ -127,10 +127,10 @@ This is the pipeline to reproduce this project.
 
 ```bash
 # clone the repository
-git clone https://github.com/janagroening/diabetes-readmission
+git clone https://github.com/janagroening/diabetes_readmission
 
 # navigate to the repository root
-cd diabetes-readmission
+cd diabetes_readmission
 ```
 
 2. Create and activate the conda environment
