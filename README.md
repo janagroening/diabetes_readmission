@@ -69,7 +69,7 @@ repository root `diabetes-readmission` and run the following commands:
 
 ```bash
 # create the environment
-conda env create -f environment.yml
+conda env create -f environment.yaml
 
 # activate the environment
 conda activate diabetes_readmission
